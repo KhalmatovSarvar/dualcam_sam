@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libuvccamera/dualcam_sam.libuvccamera.main.iml" filepath="$PROJECT_DIR$/.idea/modules/libuvccamera/dualcam_sam.libuvccamera.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/165773660/dualcam_sam.opencv.main.iml" filepath="$PROJECT_DIR$/.idea/modules/165773660/dualcam_sam.opencv.main.iml" />
+    </modules>
+  </component>
+</project>
